@@ -20,3 +20,5 @@ Create a directory named "fly-brain" then clone "fly-api" inside of the "fly-bra
 Then install the necessary python3 packages listed above. 
 From inside of the "fly-api" directory clone the "Drosophila_brain_model"
 Still inside the "flt-api" directory clone this directory.
+Then .py file from the "brain_network" folder to the fly-api folder.
+Enjoy! Just run the .py file.
